@@ -4,11 +4,11 @@ discordUsername = 'gs._'
 replaceWith = '(srry no username rn :c)'
 
 reddit = praw.Reddit(
-    client_id="AOOWUSw8I8hwertRSHOfbA",
-    client_secret="_ywfaeY-tsvjXnuZhHFRbyZg0Xte6Q",
+    client_id="",
+    client_secret="",
     user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
-    username='GS_StarGamer999',
-    password='GSattop420'
+    username='',
+    password=''
 )
 
 print(f'Editing comments now')
